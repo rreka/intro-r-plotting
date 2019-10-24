@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571933786770.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1802905124",
+    "id" : "10618CDE",
+    "lastKnownWriteTime" : 1571933713,
+    "last_content_update" : 1571933713,
+    "path" : "~/OneDrive - University of Windsor/Documents/Research data management/intro-r-plotting/intro-r-plotting.R",
+    "project_path" : "intro-r-plotting.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
